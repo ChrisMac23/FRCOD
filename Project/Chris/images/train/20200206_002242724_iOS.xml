@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>20200206_002242724_iOS.jpeg</filename>
+	<path>C:\Users\DragonRobotics\Desktop\FRCOD\Project\Chris\images\train\20200206_002242724_iOS.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>544</width>
+		<height>544</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>345</ymin>
+			<xmax>388</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

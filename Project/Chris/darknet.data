@@ -1,5 +1,5 @@
 classes= 1
-train  = ball_train.txt
-valid  = ball_test.txt
-names = class.names
+train  = C:\Users\DragonRobotics\Desktop\FRCOD\Project\Chris\ball_train.txt
+valid  = C:\Users\DragonRobotics\Desktop\FRCOD\Project\Chris\ball_test.txt
+names = C:\Users\DragonRobotics\Desktop\FRCOD\Project\Chris\class.names
 backup = ./backup
